@@ -1,0 +1,1 @@
+fgfs.exe --aircraft=c172p --native-fdm=socket,out,60,,5500,udp --fdm=null --native-fdm=socket,in,60,,5600,udp

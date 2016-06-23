@@ -1,0 +1,2 @@
+JSBSim.exe --root=../../../ --script=./scripts/c172_cruise.xml --logdirectivefile=./aircraft/c172gtri/simulink.xml --realtime
+REM JSBSim.exe --root=../../../ --script=./scripts/c172_cruise.xml --logdirectivefile=./aircraft/c172gtri/simulink.xml
